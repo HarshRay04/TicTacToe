@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitcount+Ink:wght@100..900&family=Tagesschrift&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(120, 185, 181);
+}
+
+nav {
+    background-color: rgb(15, 130, 140);
+    color: rgb(50, 10, 107);
+    justify-content: center;
+    padding: 0 15px;
+    font-family: "Tagesschrift",
+        system-ui;
+    font-weight: 400;
+    font-style: normal;
+
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+}
+
+.GameBoard {
+    background-color: rgb(6, 80, 132);
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.container {
+    background-color: rgb(6, 80, 132);
+
+}
